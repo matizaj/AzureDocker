@@ -6,7 +6,7 @@ EXPOSE 80
 
 FROM mcr.microsoft.com/dotnet/core/sdk:3.1-buster AS build
 WORKDIR /src
-COPY ["./TranscriptionFacade/TranscriptionFacade.csproj", "TranscriptionFacade/"]
+COPY ["./TranscriptionFacade.csproj", "TranscriptionFacade/"]
 RUN dotnet restore "TranscriptionFacade/TranscriptionFacade.csproj"
 COPY . .
 WORKDIR "/src/TranscriptionFacade"
