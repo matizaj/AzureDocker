@@ -20,11 +20,17 @@ stages:
     pool:
       vmImage: 'ubuntu-latest'
     steps:
- 
+    - task: UseDotNet@2
+      displayName: 'Install 3.x dotnet'
+      inputs:
+        packageType: runtime
+        version: '3.x'
+        performMultiLevelLookup: true
     - task: CmdLine@2
       inputs:
         script: |
-          cd ..
+          ls
+          cd ../
           ls
     - task: Docker@2
       displayName: Build an image
