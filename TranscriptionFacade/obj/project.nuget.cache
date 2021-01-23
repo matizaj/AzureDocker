@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vws31/FRCKgqefqfk0KYJf9JwjvK2C9GOhlNDtag3Rfbfc7QndPA9RNVnmZ0taM3yKc1ILEIaXYaqgbr8rCowQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TRBC37\\source\\repos\\DockerDemoAzure\\TranscriptionFacade\\TranscriptionFacade.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TRBC37\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
