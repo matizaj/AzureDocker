@@ -1,5 +1,0 @@
-C:\Users\TRBC37\source\repos\DockerDemoAzure\Host\obj\Debug\netcoreapp3.1\Host.csprojAssemblyReference.cache
-C:\Users\TRBC37\source\repos\DockerDemoAzure\Host\obj\Debug\netcoreapp3.1\Host.AssemblyInfoInputs.cache
-C:\Users\TRBC37\source\repos\DockerDemoAzure\Host\obj\Debug\netcoreapp3.1\Host.AssemblyInfo.cs
-C:\Users\TRBC37\source\repos\DockerDemoAzure\Host\obj\Debug\netcoreapp3.1\Host.csproj.CoreCompileInputs.cache
-C:\Users\TRBC37\source\repos\DockerDemoAzure\Host\obj\Debug\netcoreapp3.1\Host.MvcApplicationPartsAssemblyInfo.cache
