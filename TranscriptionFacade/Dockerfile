@@ -9,8 +9,8 @@ WORKDIR /src
 COPY ["./TranscriptionFacade.csproj", "TranscriptionFacade/"]
 RUN dotnet restore "TranscriptionFacade/TranscriptionFacade.csproj"
 COPY . .
-WORKDIR "/src/TranscriptionFacade"
-RUN dotnet build "./TranscriptionFacade.csproj" -c Release -o /app/build
+WORKDIR "/src"
+RUN dotnet build "TranscriptionFacade.csproj" -c Release -o /app/build
 
 FROM build AS publish
 RUN dotnet publish "TranscriptionFacade.csproj" -c Release -o /app/publish
