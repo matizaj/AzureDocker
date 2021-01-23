@@ -22,7 +22,9 @@ stages:
     steps:
     - task: CmdLine@2
       inputs:
-        script: 'ls'
+        script: |
+          cd Host
+          ls
     - task: Docker@2
       displayName: Build an image
       inputs:
