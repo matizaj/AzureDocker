@@ -6,7 +6,6 @@ C:\Users\TRBC37\source\repos\DockerDemoAzure\TranscriptionFacade\bin\Debug\netco
 C:\Users\TRBC37\source\repos\DockerDemoAzure\TranscriptionFacade\bin\Debug\netcoreapp3.1\TranscriptionFacade.runtimeconfig.dev.json
 C:\Users\TRBC37\source\repos\DockerDemoAzure\TranscriptionFacade\bin\Debug\netcoreapp3.1\TranscriptionFacade.dll
 C:\Users\TRBC37\source\repos\DockerDemoAzure\TranscriptionFacade\bin\Debug\netcoreapp3.1\TranscriptionFacade.pdb
-C:\Users\TRBC37\source\repos\DockerDemoAzure\TranscriptionFacade\obj\Debug\netcoreapp3.1\TranscriptionFacade.csprojAssemblyReference.cache
 C:\Users\TRBC37\source\repos\DockerDemoAzure\TranscriptionFacade\obj\Debug\netcoreapp3.1\TranscriptionFacade.AssemblyInfoInputs.cache
 C:\Users\TRBC37\source\repos\DockerDemoAzure\TranscriptionFacade\obj\Debug\netcoreapp3.1\TranscriptionFacade.AssemblyInfo.cs
 C:\Users\TRBC37\source\repos\DockerDemoAzure\TranscriptionFacade\obj\Debug\netcoreapp3.1\TranscriptionFacade.csproj.CoreCompileInputs.cache
