@@ -10,6 +10,7 @@ COPY ["./TranscriptionFacade.csproj", "TranscriptionFacade/"]
 RUN dotnet restore "TranscriptionFacade/TranscriptionFacade.csproj"
 COPY . .
 WORKDIR "/src/TranscriptionFacade"
+RUN ls
 RUN dotnet build "TranscriptionFacade.csproj" -c Release -o /app/build
 
 FROM build AS publish

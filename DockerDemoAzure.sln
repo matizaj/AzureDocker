@@ -6,6 +6,10 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Facade", "Facade", "{1B88C5B1-B87A-44FF-BACD-06CCF194CFE3}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Transcription", "Transcription", "{A547C2D8-AC77-4BEB-A726-1E5C31D55CDB}"
+	ProjectSection(SolutionItems) = preProject
+		.dockerignore = .dockerignore
+		TranscriptionFacade\Dockerfile = TranscriptionFacade\Dockerfile
+	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TranscriptionFacade", "TranscriptionFacade\TranscriptionFacade.csproj", "{7FD4CB71-A18D-4261-8449-961C93005035}"
 EndProject
