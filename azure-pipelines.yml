@@ -29,6 +29,6 @@ stages:
       displayName: Build an image
       inputs:
         command: build
-        dockerfile: '$(Build.SourcesDirectory)/Host/Dockerfile'
+        dockerfile: '$(Build.SourcesDirectory)/TranscriptionFacade/Dockerfile'
         tags: |
           $(tag)
